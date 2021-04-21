@@ -1,4 +1,5 @@
 di development saya punya rencana :
 1. testing
-2. maintenance
+2. maintenance software
 3. busniss development
+4. maintenacnce hardware
